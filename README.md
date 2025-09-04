@@ -1,4 +1,4 @@
-## Hi i'm  Sreenivasa pai ## Hi i'm  Sreenivasa pai ✨<br>🕵‍♂️ About Me:<br>📈 Currently Pursuing Mca in Cybersecurity From Amrita Kochi campus<br>🧑‍💻 Completed my ug in Bca data Science From Amrita Amritapuri campus<br>🌿 Interested in CyberSecurity and AI<br>📥 How to reach me: sreenivasapai007@gmail.com
+## Hi i'm  Sreenivasa pai ✨<br>🕵‍♂️ About Me:<br>📈 Currently Pursuing Mca in Cybersecurity From Amrita Kochi campus<br>🧑‍💻 Completed my ug in Bca data Science From Amrita Amritapuri campus<br>🌿 Interested in CyberSecurity and AI<br>📥 How to reach me: sreenivasapai007@gmail.com
 
 
 ## 🌐 Socials:
