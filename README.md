@@ -1,6 +1,8 @@
 ## Hi i'm  Sreenivasa pai ✨<br><br>🕵‍♂️ About Me:<br>📈 Currently Pursuing Mca in Cybersecurity From Amrita Kochi campus<br>🧑‍💻 Completed my ug in Bca data Science From Amrita Amritapuri campus<br>🌿 Interested in CyberSecurity and AI<br>📥 How to reach me: sreenivasapai007@gmail.com
 
 
+![Visitor Count](https://profile-counter.glitch.me/{sreenivasapai}/count.svg)   
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sreenivasa_pai) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sreenivasapai) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pai_karate)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SREENIVASAPAI51) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sreenivasapai007@gmail.com) 
 
