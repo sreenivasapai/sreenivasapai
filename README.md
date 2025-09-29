@@ -1,9 +1,7 @@
 ## Hi i'm  Sreenivasa pai ✨<br><br>🕵‍♂️ About Me:<br>📈 Currently Pursuing Mca in Cybersecurity From Amrita Kochi campus<br>🧑‍💻 Completed my ug in Bca data Science From Amrita Amritapuri campus<br>🌿 Interested in CyberSecurity and AI<br>📥 How to reach me: sreenivasapai007@gmail.com
 
 
-![Visitor Count](https://profile-counter.glitch.me/{sreenivasapai}/count.svg)
-curl https://profile-counter.glitch.me/{sreenivasapai}/count.svg
-
+![](https://komarev.com/ghpvc/?username=your-github-sreenivasapai)
 
 
 ## 🌐 Socials:
