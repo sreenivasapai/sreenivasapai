@@ -1,4 +1,9 @@
-## Hi i'm  Sreenivasa pai ✨<br><br>🕵‍♂️ About Me:<br>📈 Currently Pursuing Mca in Cybersecurity From Amrita Kochi campus<br>🧑‍💻 Completed my ug in Bca data Science From Amrita Amritapuri campus<br>🌿 Interested in CyberSecurity and AI<br>📥 How to reach me: sreenivasapai007@gmail.com
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=FCA311&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Sreenivasa+pai" alt="Typing SVG" />
+</h1>
+
+🕵‍♂️ About Me:<br>📈 Currently Pursuing Mca in Cybersecurity From Amrita Kochi campus<br>🧑‍💻 Completed my ug in Bca data Science From Amrita Amritapuri campus<br>🌿 Interested in CyberSecurity and AI<br>📥 How to reach me: sreenivasapai007@gmail.com
 
 
 ![](https://komarev.com/ghpvc/?username=your-github-sreenivasapai)
