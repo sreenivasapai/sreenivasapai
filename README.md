@@ -1,38 +1,186 @@
-
+```markdown
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=FCA311&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Sreenivasa+pai" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&duration=3500&pause=1000&color=FCA311&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Sreenivasa+Pai;Cybersecurity+Enthusiast+%F0%9F%94%90;Ethical+Hacker+%F0%9F%9B%A1%EF%B8%8F;AI+%7C+Data+Science+Explorer;Welcome+to+my+GitHub!" />
 </h1>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sreenivasapai&label=Profile+Views&color=blueviolet&style=flat"/>
+</p>
 
+---
 
-🕵️‍♂️ About Me:<br>
-🎓 Currently pursuing an MCA in Cybersecurity at Amrita Vishwa Vidyapeetham, Kochi Campus<br>
-🧑‍💻 Completed my BCA in Data Science from Amrita Vishwa Vidyapeetham, Amritapuri Campus<br>
-🔐 Passionate about Cybersecurity, Ethical Hacking, and Artificial Intelligence<br>
-💻 Exploring secure software development, penetration testing, and AI-driven solutions<br>
-📥 How to reach me: sreenivasapai007@gmail.com<br>
-🔗 LinkedIn: www.linkedin.com/in/sreenivasapai<br>
+# 🕵️ About Me
 
+🎓 MCA Cybersecurity Student at **Amrita Vishwa Vidyapeetham, Kochi**
 
-![](https://komarev.com/ghpvc/?username=your-github-sreenivasapai)
+🎓 BCA Data Science Graduate from **Amrita Vishwa Vidyapeetham, Amritapuri**
 
+🔐 Passionate about
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sreenivasa_pai) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sreenivasapai) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pai_karate)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SREENIVASAPAI51) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sreenivasapai007@gmail.com) 
+- Ethical Hacking
+- Penetration Testing
+- Network Security
+- Artificial Intelligence
+- Secure Software Development
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+🌱 Currently Learning
 
+- Malware Analysis
+- Digital Forensics
+- Threat Hunting
+- Web Application Security
+- Cloud Security
+
+💻 I love building
+
+- Cybersecurity Tools
+- AI Applications
+- Web Applications
+- Machine Learning Projects
+
+🏆 National Medalist in Karate & Netball
+
+📫 Reach Me
+
+📧 **sreenivasapai007@gmail.com**
+
+🌐 Portfolio *(Coming Soon)*
+
+---
+
+# 🚀 Current Focus
+
+- 🔭 Building Cybersecurity Projects
+- 🌐 Learning Advanced Penetration Testing
+- 🧠 Exploring AI for Cybersecurity
+- ⚡ Participating in Hackathons
+- 📚 Preparing for Security Certifications
+
+---
+
+# 🌍 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/sreenivasapai">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://instagram.com/sreenivasa_pai">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/pai_karate">
+<img src="https://img.shields.io/badge/Karate_Instagram-red?style=for-the-badge&logo=instagram"/>
+</a>
+
+<a href="https://x.com/SREENIVASAPAI51">
+<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x"/>
+</a>
+
+<a href="mailto:sreenivasapai007@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r)
+
+---
+
+# 🌐 Web Development
+
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![NodeJS](https://img.shields.io/badge/NodeJS-green?style=for-the-badge&logo=node.js)
+
+---
+
+# 🤖 AI / Machine Learning
+
+TensorFlow • Keras • PyTorch • Scikit-Learn • Pandas • NumPy • Matplotlib
+
+---
+
+# 🗄️ Databases
+
+MySQL • PostgreSQL • SQLite • MongoDB
+
+---
+# 🛡️ Cybersecurity
+- Kali Linux
+- Burp Suite
+- OWASP ZAP
+- Wireshark
+- Nmap
+- SQLMap
+- Metasploit
+- FFUF
+- Wazuh
+- Shodan
+- Censys
+---
+# ☁️ Big Data
+Apache Spark • Hadoop • Hive
+---
+# 🛠 Tools
+Git • GitHub • Docker • Cisco Packet Tracer • Power BI • Canva
+---
+
+# 🏅 Certifications
+✔ Cisco Certified Cybersecurity Technician (CCST)
+✔ Certified Cybersecurity Educator Professional (CCEP)
+
+---
+# 🚀 Featured Projects
+### 🔐 Secure Identity Smart Travel
+Blockchain + Flask + Cybersecurity
+---
+### 🩺 Cancer Classification System
+Deep Learning based Medical Diagnosis
+---
+### 🚨 SOS Android Application
+Emergency Alert System with Live Location
+---
 # 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sreenivasapai&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sreenivasapai&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreenivasapai&layout=compact&theme=tokyonight"/>
+
+</p>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=sreenivasapai&theme=tokyonight"/>
+</p>
+---
+# 🏆 GitHub Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sreenivasapai&theme=tokyonight&row=1&column=6"/>
 </p>
 
+---
+# 📈 Contribution Graph
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sreenivasapai&theme=tokyonight" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sreenivasapai&theme=tokyo-night"/>
 </p>
+---
+# 💡 Quote
+> "Cybersecurity is not a product, but a process."
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreenivasapai&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
+# ⚡ Fun Fact
+🥋 National-level Karate Player
+🏐 State & National Netball Player
+☕ I enjoy Reading Books.
+
+---
+⭐ If you like my work, don't forget to star my repositories!
+```
