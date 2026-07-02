@@ -6,6 +6,7 @@
 
 
 🕵️‍♂️ About Me:<br>
+
 🎓 Currently pursuing an MCA in Cybersecurity at Amrita Vishwa Vidyapeetham, Kochi Campus<br>
 🧑‍💻 Completed my BCA in Data Science from Amrita Vishwa Vidyapeetham, Amritapuri Campus<br>
 🔐 Passionate about Cybersecurity, Ethical Hacking, and Artificial Intelligence<br>
