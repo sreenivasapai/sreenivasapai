@@ -1,39 +1,245 @@
-
+<!-- ======= HEADER ======= -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=FCA311&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Sreenivasa+pai" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Sreenivasa+Pai;Cybersecurity+Enthusiast;AI+%26+Data+Science+Developer;Always+Learning+Always+Building" />
 </h1>
 
+<h3 align="center">
+Cybersecurity Enthusiast | AI/ML Developer | Data Science Explorer | Full Stack Learner
+</h3>
 
 
-🕵️‍♂️ About Me:<br>
+---
 
-🎓 Currently pursuing an MCA in Cybersecurity at Amrita Vishwa Vidyapeetham, Kochi Campus<br>
-🧑‍💻 Completed my BCA in Data Science from Amrita Vishwa Vidyapeetham, Amritapuri Campus<br>
-🔐 Passionate about Cybersecurity, Ethical Hacking, and Artificial Intelligence<br>
-💻 Exploring secure software development, penetration testing, and AI-driven solutions<br>
-📥 How to reach me: sreenivasapai007@gmail.com<br>
-🔗 LinkedIn: www.linkedin.com/in/sreenivasapai<br>
+<!-- ======= ABOUT ======= -->
+
+## 🕵️‍♂️ About Me
+
+🚀 Passionate about building intelligent, secure, and impactful technology solutions by combining 
+**Cybersecurity, Artificial Intelligence, Data Science, and Software Development.**
+
+- 🎓 Pursuing **MCA Cybersecurity** at **Amrita Vishwa Vidyapeetham, Kochi Campus**
+
+- 🎓 Completed **BCA Data Science** from **Amrita Vishwa Vidyapeetham, Amritapuri Campus**
+
+- 🔐 Interested in:
+  **Ethical Hacking | SIEM | Network Security | Threat Monitoring**
+
+- 🤖 Exploring:
+  **AI/ML Models, Deep Learning, Secure Applications**
+
+- 🏅 National-level Sports Player & Karate Black Belt
+
+- 📫 Reach me:
+  **sreenivasapai007@gmail.com**
+
+- ⚡ Fun fact:
+  I believe discipline from sports + creativity in coding builds better solutions.
 
 
-![](https://komarev.com/ghpvc/?username=your-github-sreenivasapai)
+---
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sreenivasa_pai) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sreenivasapai) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pai_karate)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SREENIVASAPAI51) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sreenivasapai007@gmail.com) 
+<!-- ======= CONNECT ======= -->
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+## 🌐 Connect With Me
 
-# 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sreenivasapai&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+<p align="left">
+
+<a href="https://linkedin.com/in/sreenivasapai">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:sreenivasapai007@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<a href="https://instagram.com/sreenivasa_pai">
+<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+</a>
+
+
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sreenivasapai&theme=tokyonight" />
-</p>
+
+---
+
+
+<!-- ======= SKILLS ======= -->
+
+## 🧰 Tech Stack
+
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreenivasapai&layout=compact&theme=tokyonight&cache_seconds=1800" />
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,nodejs,mysql,mongodb,git,github,linux,vscode,tensorflow,pytorch" />
+
+</p>
+
+
+### 🔐 Cybersecurity
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Wazuh-SIEM-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Cisco-CCST-1BA0D7?style=for-the-badge&logo=cisco">
+<img src="https://img.shields.io/badge/Ethical_Hacking-black?style=for-the-badge">
+
+</p>
+
+
+---
+
+
+<!-- ======= PROJECTS ======= -->
+
+# 🚀 Featured Projects
+
+
+## 🚨 Emergency SOS Application
+
+> Android-based emergency response system designed for quick assistance during critical situations.
+
+
+### Features
+
+- 📍 Real-time location sharing
+- 📩 Automatic SOS SMS alerts
+- 📞 Sequential emergency calling system
+- 🔥 Firebase integration
+
+
+**Tech Used**
+
+`Java` `Android Studio` `Firebase` `Google Maps API`
+
+🔗 Repository:
+https://github.com/sreenivasapai/projectsos1
+
+
+---
+
+
+## 🩺 AI Cancer Classification System
+
+
+> Healthcare AI system that helps doctors analyze medical images and predict cancer possibilities using deep learning.
+
+
+### Features
+
+- 🧠 CNN based image classification
+- 🏥 Doctor dashboard
+- 📅 Appointment management system
+- 📊 Patient data prediction
+
+
+**Tech Used**
+
+`Python` `TensorFlow` `Keras` `Flask` `MongoDB`
+
+
+---
+
+
+## 🛡 Windows Endpoint Monitoring with Wazuh SIEM
+
+
+> Cybersecurity monitoring project focused on endpoint protection and threat detection.
+
+
+### Features
+
+- Security event monitoring
+- Windows agent integration
+- Log analysis
+- Threat detection
+
+
+**Tech Used**
+
+`Wazuh` `SIEM` `Windows Security`
+
+🔗 Repository:
+https://github.com/sreenivasapai/Windows-Endpoint-Monitoring-with-Wazuh
+
+
+---
+
+
+<!-- ======= GITHUB ======= -->
+
+# 📊 GitHub Insights
+
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sreenivasapai&show_icons=true&theme=tokyonight"/>
+
+<img width="48%" src="https://streak-stats.demolab.com?user=sreenivasapai&theme=tokyonight"/>
+
+</p>
+
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreenivasapai&layout=compact&theme=tokyonight"/>
+
+</p>
+
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sreenivasapai&theme=tokyo-night"/>
+
+</p>
+
+
+---
+
+
+<!-- ======= ACHIEVEMENTS ======= -->
+
+# 🏆 Highlights
+
+
+- 🔐 Cisco Certified Cybersecurity Technician (CCST)
+
+- 🧑‍💻 Developed AI & cybersecurity-based projects
+
+- 🤖 Built Deep Learning healthcare solutions
+
+- 🏅 National-level sports representative
+
+- 🥋 Karate Black Belt
+
+- 💡 Passionate about building real-world problem-solving applications
+
+
+---
+
+
+<!-- ======= CURRENT ======= -->
+
+# 🎯 Current Focus
+
+
+- 🔥 Advanced Cybersecurity Concepts
+
+- 🛡 SIEM & SOC Operations
+
+- 🧠 AI-powered Security Systems
+
+- 🌐 Secure Full Stack Development
+
+
+---
+
+
+<p align="center">
+
+<i>
+"Discipline creates consistency. Consistency creates success."
+</i>
+
 </p>
