@@ -1,13 +1,9 @@
 <!-- ======= HEADER ======= -->
-<h1 align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Sreenivasa+Pai;Cybersecurity+Enthusiast;AI+%26+Data+Science+Developer;Always+Learning+Always+Building" />
-</h1>
+<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=FCA311&center=true&vCenter=true&multiline=true&width=435&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Sreenivasa+pai" alt="Typing SVG" /> </h1>
 
 <h3 align="center">
 Cybersecurity Enthusiast | AI/ML Developer | Data Science Explorer | Full Stack Learner
 </h3>
-
-
 ---
 
 <!-- ======= ABOUT ======= -->
@@ -96,6 +92,34 @@ Cybersecurity Enthusiast | AI/ML Developer | Data Science Explorer | Full Stack 
 # 🚀 Featured Projects
 
 
+---
+
+
+## 🛡 Windows Endpoint Monitoring with Wazuh SIEM
+
+
+> Cybersecurity monitoring project focused on endpoint protection and threat detection.
+
+
+### Features
+
+- Security event monitoring
+- Windows agent integration
+- Log analysis
+- Threat detection
+
+
+**Tech Used**
+
+`Wazuh` `SIEM` `Windows Security`
+
+🔗 Repository:
+https://github.com/sreenivasapai/Windows-Endpoint-Monitoring-with-Wazuh
+
+
+---
+
+
 ## 🚨 Emergency SOS Application
 
 > Android-based emergency response system designed for quick assistance during critical situations.
@@ -139,32 +163,6 @@ https://github.com/sreenivasapai/projectsos1
 `Python` `TensorFlow` `Keras` `Flask` `MongoDB`
 
 
----
-
-
-## 🛡 Windows Endpoint Monitoring with Wazuh SIEM
-
-
-> Cybersecurity monitoring project focused on endpoint protection and threat detection.
-
-
-### Features
-
-- Security event monitoring
-- Windows agent integration
-- Log analysis
-- Threat detection
-
-
-**Tech Used**
-
-`Wazuh` `SIEM` `Windows Security`
-
-🔗 Repository:
-https://github.com/sreenivasapai/Windows-Endpoint-Monitoring-with-Wazuh
-
-
----
 
 
 <!-- ======= GITHUB ======= -->
