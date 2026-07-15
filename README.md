@@ -60,21 +60,6 @@
 ```bash
 root@sreenivasa:~$ boot
 
-Loading Python Environment............. ✔
-
-Loading Linux Kernel................... ✔
-
-Loading Security Modules............... ✔
-
-Loading Wazuh SIEM..................... ✔
-
-Loading AI Engine...................... ✔
-
-Connecting GitHub...................... ✔
-
-Connection Secure...................... ✔
-
-System Ready...
 ```
 
 ---
