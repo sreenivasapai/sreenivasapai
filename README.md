@@ -6,8 +6,14 @@ Cybersecurity Enthusiast | AI/ML Developer | Data Science Explorer | Full Stack 
 </h3>
 
 
-<!-- ======= ABOUT ======= -->
+<!-- 👀 Visitor Counter -->
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sreenivasapai&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/sreenivasapai?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/>
+</p>
+
+<!-- ======= ABOUT ======= -->
 
 
 ## 🕵️‍♂️ About Me
