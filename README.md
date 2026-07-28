@@ -40,10 +40,10 @@
 ╔══════════════════════════════════════════════════════════════╗
 ║                 CYBER OPERATIONS CENTER v3.0                 ║
 ╠══════════════════════════════════════════════════════════════╣
-║ USER          : SREENIVASA PAI                               ║
-║ ROLE          : Cybersecurity Student                        ║
-║ STATUS        : ONLINE 🟢                                   ║
-║ LOCATION      : Kerala, India 🇮🇳                             ║
+║ USER          : SREENIVASA PAI                               ║ 
+║ ROLE          : Cybersecurity Student                        ║  
+║ STATUS        : ONLINE                                       ║
+║ LOCATION      : Kerala, India                                ║                             
 ║ UNIVERSITY    : Amrita Vishwa Vidyapeetham                   ║
 ║ CLEARANCE     : LEVEL 5                                      ║
 ║ THREAT LEVEL  : LOW                                          ║
